@@ -46,7 +46,7 @@ Each JavaScript file includes a set of test cases to validate the functionality 
 
 Screenshots demonstrating the output of each user-defined function are also provided in this repository. You can refer to these screenshots for a visual confirmation of the custom functions' functionality.
 
-[README.md](https://github.com/Arghya-Bandyopadhyay30/User-Defined-JavaScript-Array-Methods/files/12867185/README.md)
+![Results](https://github.com/Arghya-Bandyopadhyay30/User-Defined-JavaScript-Array-Methods/assets/64891347/65c1b20f-6036-4f08-92e5-f5cb4e9049b5)
 
 ## Contributions
 
